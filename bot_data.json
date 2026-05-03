@@ -1,0 +1,28 @@
+{
+  "users": {
+    "7813027766": {
+      "used": 1,
+      "remaining": 14,
+      "paid": false
+    }
+  },
+  "channels": [
+    {
+      "title": "📢 قناة 1",
+      "url": "https://t.me/rsll61",
+      "verify_id": "@rsll61"
+    },
+    {
+      "title": "🤖 بوت Hack696",
+      "url": "https://t.me/Hack696bot",
+      "verify_id": null
+    },
+    {
+      "title": "🎵 TikTok",
+      "url": "https://www.tiktok.com/@sou.r31",
+      "verify_id": null
+    }
+  ],
+  "exempt": [],
+  "verified": []
+}
